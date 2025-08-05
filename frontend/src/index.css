@@ -1,0 +1,8 @@
+.body{
+  min-height: 100vh;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+input{
+  border: 1px solid black;
+}
